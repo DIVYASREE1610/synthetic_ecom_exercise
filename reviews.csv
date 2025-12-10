@@ -1,0 +1,22 @@
+review_id,user_id,product_id,rating,comment
+R001,U001,P002,5,Great tactile feel and solid build.
+R002,U003,P007,4,Excellent clarity though a bit pricey.
+R003,U010,P009,5,Sturdy desk with smooth height adjustment.
+R004,U004,P011,3,Charges well but heavier than expected.
+R005,U008,P018,4,Makes good coffee; setup was easy.
+R006,U013,P006,5,Fits my laptop perfectly.
+R007,U002,P001,4,Accurate tracking and comfortable.
+R008,U015,P015,5,Fast speeds and simple setup.
+R009,U006,P003,4,Plenty of ports; runs slightly warm.
+R010,U012,P008,5,Very comfortable for long sessions.
+R011,U018,P020,4,Spacious and durable.
+R012,U005,P010,5,Bright light with adjustable color.
+R013,U009,P016,3,Sound is fine but battery life could be longer.
+R014,U017,P013,4,Clear image quality for calls.
+R015,U011,P014,5,Great upgrade, speeds are fantastic.
+R016,U014,P004,4,Good noise cancellation; case feels bulky.
+R017,U007,P005,4,Holds the phone firmly at any angle.
+R018,U016,P012,5,Strong bass and easy pairing.
+R019,U020,P019,4,Keeps drinks cold all day.
+R020,U019,P017,5,Perfect size and smooth performance.
+

@@ -1,0 +1,22 @@
+product_id,name,category,price
+P001,Wireless Mouse,Electronics,24.99
+P002,Mechanical Keyboard,Electronics,89.99
+P003,USB-C Hub,Electronics,34.50
+P004,Noise-Cancelling Headphones,Electronics,129.00
+P005,Smartphone Stand,Accessories,15.25
+P006,Laptop Sleeve,Accessories,22.00
+P007,4K Monitor,Electronics,279.99
+P008,Ergonomic Chair,Furniture,199.50
+P009,Standing Desk,Furniture,329.00
+P010,LED Desk Lamp,Home,39.99
+P011,Portable Charger,Electronics,29.95
+P012,Bluetooth Speaker,Electronics,59.00
+P013,Webcam 1080p,Electronics,49.50
+P014,SSD 1TB,Electronics,119.00
+P015,Router WiFi 6,Electronics,139.99
+P016,Wireless Earbuds,Electronics,79.99
+P017,Tablet 10 inch,Electronics,249.00
+P018,Coffee Maker,Home,89.00
+P019,Water Bottle Insulated,Accessories,18.75
+P020,Backpack Travel,Accessories,74.99
+
